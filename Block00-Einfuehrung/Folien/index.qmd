@@ -144,6 +144,10 @@ Zeitgleich:
 * viele Diversity-Trainings zeigen gar keine Effekte [@kalev_best_2006]
 * teilweise können Trainings hingegen "backfiren" [@duguid_condoning_2015]
 
+. . .
+
+![](img/Duguidetal2015.png){width="60%"}
+
 
 ## Warum unterschiedliche Antworten?
 
@@ -238,6 +242,8 @@ timevis(data,
 
 ## <!--Kurzvorstellung(en)--> {.center}
 ### [{{< fa users >}}]{.imp} Und Sie
+
+<br>
 
 
 ![](img/Particify_Umweltbildung+Diversity-Training.png){width="30%" fig-align="center"}
