@@ -7,7 +7,7 @@ date: today
 date-format: "[Sommersemester] 2026"
 
 logo: img/ph-logo.svg
-footer: LINK
+footer: https://t1p.de/parrisius-006
 
 format: 
   revealjs:
@@ -222,8 +222,23 @@ timevis(data,
 ```
 
 
+## [{{< fa chalkboard-teacher >}}]{.imp} Cora Parrisius 
+
+**Sprechstunde**
+
+* Mittwochs, 14:30 - 15 Uhr
+* Anmeldung: [https://t1p.de/parrisius-sprechstunde](https://t1p.de/parrisius-sprechstunde)
+* Raum: 2.B302 oder WebEx
+
+
+**Erreichbarkeit**
+
+* via Email: [fome-lehre@ph-karlsruhe.de](mailto:fome-lehre@ph-karlsruhe.de)
+
+
 ## <!--Kurzvorstellung(en)--> {.center}
 ### [{{< fa users >}}]{.imp} Und Sie
+
 
 ![](img/Particify_Umweltbildung+Diversity-Training.png){width="30%" fig-align="center"}
 
@@ -239,18 +254,28 @@ timevis(data,
 
 > Spielregeln
 
+:::: {.columns}
 
+::: {.column width="50%"}
 Die Vorlesung...
 
 * wächst organisch
 * hängt davon ab, was Sie einbringen
 * lebt von Beteiligung
 
-. . . 
+:::
 
 
-InnovationSpace-Kurs mit Folien: [https://innovationspace.ph-karlsruhe.de/course/view.php?id=637](https://innovationspace.ph-karlsruhe.de/course/view.php?id=637)
+::: {.column width="50%"}
 
+
+![](img/QR-Code-Moodle.png){width="50%"}
+
+InnovationSpace-Kurs mit Folien: [https://t1p.de/parrisius-012](https://innovationspace.ph-karlsruhe.de/course/view.php?id=712)
+
+:::
+
+::::
 
 ## Studienleistung: Klausur {.smaller}
 * 1 **obligatorische** Klausur 
