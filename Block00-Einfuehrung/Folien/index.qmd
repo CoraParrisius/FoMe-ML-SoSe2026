@@ -253,6 +253,11 @@ timevis(data,
 :::
 
 
+## <!--Begriff Forschungsmethoden-->
+
+![](img/FoMe-Wolke.png)
+
+
 ## <!--Organisatorische Einführung-->[{{< fa sitemap >}} Organisatorische Einführung]{.imp} {.center}
 
 
