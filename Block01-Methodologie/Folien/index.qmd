@@ -1,13 +1,13 @@
 ---
-title: "VL Forschungsmethoden"
-subtitle: "Grundbegriffe quantitativ-empirischer Methodologie"
+title: "VL Empirische Forschungsmethoden"
+subtitle: "für MiBiD und BioBil"
 author: "Cora Parrisius"
 
 date: today
-date-format: "[Wintersemester] 2025/26"
+date-format: "[Sommersemester] 2026"
 
 logo: img/ph-logo.svg
-footer: Folien adaptiert von Samuel Merk | ogy.de/mvl-wise-2526
+footer: https://ogy.de/m5vl-001 | Folien adaptiert von Samuel Merk
 
 
 format: 
@@ -453,7 +453,7 @@ Bei Experimenten liegt die Gruppeneinteilung in der Hand der Forschenden, wohing
 ```
 </center>
 
-## Übung {.smaller .scrollable}
+## Übung 1 {.smaller .scrollable}
 #### Trendstudien & Large-Scale-Assessments werden leicht missverstanden
 In Deutschland gibt es vergleichsweise viele und aufwändige deskriptive Trendstudien und Large-Scale-Assessments (z.B. [PISA, IGLU, TIMSS, IQB-Bildungstrend, Monitor Lehrerbildung]{.imp}). Diese Studien sind für Monitorings angelegt, um z.B. zu beobachten, wie sich die Lesekompetenz der Drittklässler:innen über die Jahre hinweg ändert. Aufgrund ihrer großen Zufallsstichproben sind die (deskriptiven) Ergebnisse stark extern valide. Leider wird in der Berichterstattung oft auf Koinzidenzen (zwei Dinge geschehen zur gleichen Zeit oder am gleichen Ort) eingegangen, obwohl diesen nur sehr schwache interne Validität zugeschrieben werden kann. <br><br>
 
@@ -467,6 +467,99 @@ In Deutschland gibt es vergleichsweise viele und aufwändige deskriptive Trendst
 ![](img/digilesen_conf.svg){.fragment width="100%" fig-align="center"}
 :::
 
+::: notes
+
+In der Forschung zu MiBiD spielen Trendstudien und Large-Scale-Assessments ebenfalls eine zentrale Rolle - etwa ESS (European Social Survey) oder PISA (Programme for International Student Assessment).
+
+Sie liefern regelmäßig scheinbar präzise Diagnosen gesellschaftlicher Zustände: Wie "integrationserfolgreich" sind bestimmte Gruppen? Wie groß sind Bilungsdisparitäten? Wie verändert sich das Vertrauen in demokratische Institutionen?
+
+* scheinbare Präzision jedoch trügerisch
+* Stichproben ermöglichen zwar hohe externe Validität, analytisch aber begrenzt
+* keine Aussagen über individuelle Entwicklungen möglich
+* Ergebnisse werrden oft in politische und öffentliche Debatte eingespeist, als hätten sie erklären oder kausalen Charakter
+
+
+* Pandelstudien wie SOEP (sozio-ökonomisches Pandel) oder NEPS (Nationales Bildungspanel) bieten hier wichtige Korrektive
+* verfolgen dieselben Personen über längere Zeiträume
+* erlauben differenzierte Einblicke in Bildungsbiografien, Integrationsprozesse und Einstellungswandel
+* natürlich auch nicht frei von methodischen und konzeptionellen Problemen (Panelmortalität, eingeschränkte Messbarkeit koomplexer Konstrukte, ...)
+
+:::
+
+## Panelstudien als "Korrektive"? {.smaller .scrollable}
+
+::: {.fragment}
+[**Sozio-oekonomisches Panel (SOEP)**]{.imp}
+
+Das SOEP ist eine seit 1984 jährlich durchgeführte repräsentative Panelstudie von Haushalten in Deutschland. Dabei werden dieselben Personen über viele Jahre hinweg wiederholt befragt. Erhoben werden unter anderem Daten zu Einkommen, Bildung, Erwerbsverläufen, Gesundheit sowie politischen Einstellungen und gesellschaftlicher Teilhabe. Durch gezielte Zusatzstichproben werden auch Migrant*innen und Geflüchtete differenziert erfasst. Das SOEP ermöglicht damit Analysen von sozialen Ungleichheiten und Lebensverläufen im Zeitverlauf.
+
+:::
+
+::: {.fragment}
+
+[**Nationales Bildungspanel (NEPS)**]{.imp}
+
+Das NEPS ist eine groß angelegte Längsschnittstudie zu Bildungsprozessen über den gesamten Lebensverlauf. Seit 2009 werden mehrere Kohorten – von der frühen Kindheit bis ins Erwachsenenalter – wiederholt untersucht. Im Fokus stehen der Erwerb von Kompetenzen, Bildungsentscheidungen und Bildungsrenditen, jeweils im Zusammenspiel mit sozialen und familiären Kontexten. Migration wird differenziert erfasst (z. B. Herkunft, Sprache, Bildungsstatus der Eltern), sodass sich insbesondere Bildungsungleichheiten und Bildungsbiografien im Kontext von Migration analysieren lassen.
+
+:::
+
+::: notes
+
+SOEP- und NEPS-Daten zeigen übereinstimmend, dass **Unterschiede im Bildungserfolg und in der gesellschaftlichen Teilhabe** von Menschen mit Migrationserfahrung **weniger auf „Migration an sich“** zurückzuführen sind, sondern **auf sozial ungleiche Ausgangsbedingungen**, sprachliche Ressourcen, institutionelle Strukturen und Diskriminierungserfahrungen. Diese Prozesse werden in Paneldaten als **langfristige, sich _verstärkende_ Bildungs- und Integrationsverläufe** sichtbar.
+
+:::
+
+## Übung 2 {.smaller .scrollable}
+#### Indikatoren werden leicht missverstanden
+
+Auch im Feld der Biodiversität spielen Trendstudien und Large-Scale-Assessments eine zentrale Rolle – etwa der Living Planet Index (LPI) oder der National Ecosystem Assessment (NEA). Sie liefern regelmäßig scheinbar klare Diagnosen über den Zustand von Ökosystemen: Wie stark geht die Biodiversität zurück? Welche Arten sind besonders betroffen? Wie entwickelt sich das Umweltbewusstsein in der Bevölkerung?
+
+Doch auch hier ist Vorsicht geboten. Die aggregierten Kennzahlen und Indizes vermitteln den Eindruck hoher Präzision und Vergleichbarkeit, basieren jedoch häufig auf stark verdichteten und selektiven Daten. Zwar ermöglichen große Datensammlungen eine hohe externe Validität im Sinne globaler oder nationaler Trends, gleichzeitig bleiben die zugrunde liegenden ökologischen Prozesse oft unterbestimmt. Was als „Biodiversitätsverlust“ quantifiziert wird, ist in vielen Fällen das Ergebnis spezifischer Messentscheidungen – etwa welche Arten berücksichtigt werden, in welchen Regionen Daten vorliegen und wie Veränderungen gewichtet werden.
+
+Hinzu kommt, dass viele dieser Studien als wiederholte Querschnittserhebungen angelegt sind. Sie zeigen Trends, aber nur begrenzt Prozesse. Koinzidenzen – etwa zwischen Landnutzungsänderungen, Klimafaktoren und Artenrückgang – werden nicht selten als implizite Ursache-Wirkungs-Zusammenhänge gelesen, obwohl die interne Validität solcher Schlüsse begrenzt ist. In der öffentlichen Kommunikation verdichten sich diese Befunde dann oft zu scheinbar eindeutigen Krisendiagnosen, die wissenschaftlich so nicht ohne Weiteres gedeckt sind.
+
+::: {.fragment}
+#### Übung
+[{{< fa book-open >}}]{.imp} Bitte lesen Sie den Presseartikel auf  [https://ogy.de/mvl-004 {{< fa square-up-right >}}](https://ogy.de/mvl-004) und bewerten Sie die interne Validität der Schlussfolgerung.<br><br>
+:::
+
+::: notes
+
+**Probleme**
+
+* Skalenwechsel: Population → Art
+* Bedeutungsverschiebung: Rückgang → Aussterben
+* Aggregationseffekt: Durchschnitt → dramatische Einzelfallinterpretatio
+
+Der Living Planet Index misst durchschnittliche Veränderungen von Populationsgrößen ausgewählter Wirbeltierarten. Aussagen über das Ausmaß des Artensterbens lassen sich daraus nicht direkt ableiten, sondern höchstens indirekt und unter zusätzlichen Annahmen über den Zusammenhang zwischen Populationsrückgang und Extinktionsrisiko.
+
+
++ + +
+
+Längsschnittlich angelegte Monitoringprogramme und Paneldesigns – etwa wiederholte Biodiversitätserhebungen in denselben Habitaten – bieten hier wichtige Ergänzungen. Sie ermöglichen es, Veränderungen konkreter Populationen und Ökosysteme über die Zeit hinweg differenzierter zu analysieren und ökologische Dynamiken besser zu verstehen. Dennoch bleiben auch diese Ansätze abhängig von methodischen Entscheidungen, etwa zur Stichprobenauswahl, Taxonomie oder Erhebungsfrequenz.
+
+
+**Europaweite Trendstudien**
+European Red List
+→ Bewertet Gefährdungsstatus von Arten
+→ Wiederholte Updates ermöglichen Trendanalysen
+Pan-European Common Bird Monitoring Scheme
+→ Einer der robustesten Biodiversitätsindikatoren in Europa
+→ Zeigt langfristige Trends häufiger Vogelarten (z. B. Agrarlandarten)
+
+
+**Deutschland**
+Rote Liste gefährdeter Arten Deutschlands
+→ Klassischer Referenzrahmen für Biodiversitätszustand
+→ In Abständen aktualisiert → Trendbeobachtung
+Monitoring häufiger Brutvögel
+→ Langfristige Daten zu Vogelpopulationen
+→ Oft zitiert (z. B. Rückgang von Feldvögeln)
+Insektenmonitoring Deutschland
+→ Verschiedene Programme (u. a. nach der „Krefelder Studie“)
+→ Politisch stark wirksam im Kontext „Insektensterben“
+
+:::
 
 ## <!--Steigerung der internen/externen Validität--> {.center}
 [{{< fa arrow-trend-up >}} Steigerung der int./ext. Validität]{.imp style="font-size:1.8em"}
@@ -496,28 +589,7 @@ In Deutschland gibt es vergleichsweise viele und aufwändige deskriptive Trendst
 :::
 
 
-## Übung {{< fa brain >}} {.smaller}
 
-> Ein Team von Forscher:innen untersucht die Lernförderlichkeit von **formativem Feedback** (*»du kannst Plusaufgaben schon sicher über den Zehner, übe doch als nächstes dieses Blatt mit Minusaufgaben über den Zehner«*) gegenüber summativem Feedback (*»Plusaufgaben mit Zehnerübergang 2+, Minusaufgaben mit Zehnerübergang 3-4«*) nach der Theorie von Hattie & Timperley [-@hattie2007]. Dazu ermitteln Sie mithilfe einer Videostudie, in welchen Klassen in Mathematik besonders oft formatives Feedback gegeben wird und erheben dort die fachlichen Leistungen. 
-
-:::: {.columns}
-
-::: {.column width='50%'}
-1) Klassifizieren Sie die Studie als
-    * A = empirisch / B = theor. / C = meth.
-    * A = querschnittlich / B = längsschnittlich
-    * A = explanativ / B = explo. / C = deskr.
-    * A = exp. / B = quasiexp. / C = nicht-exp.
-:::
-
-::: {.column width='50%'}
-2) Angenommen, die Forsch:innen sehen in den Daten, dass in diesen Klassen die Schüler:innen in einem Leistungstest tatsächlich besser abschneiden als in Klassen mit weniger formativem Feedback. Es kann dennoch nicht geschlussfolgert werden, dass das formative Assessment lernförderlicher ist. Warum?
-:::
-
-::::
-
-::: {.footer}
-:::
 
 ## Bedrohungen der internen Validität in Alltag und Forschung {{< fa down-long >}} {.center}
 
@@ -570,16 +642,6 @@ ACHTUNG: Die Allermeisten werden zutreffende Beispiele bringen (2,4,6,10,16) abe
 * Anchorbias [@lieder2018]
 
 
-## Tutorien {.smaller}
-
-* Mo 12 - 13:30 Uhr, 2.B308, Lisa Mayer
-* Mi 8 - 9:30 Uhr, 2.B308, Ruben Rothenhäusler
-* Do 10 - 11:30, 2.B308, Nilani Suriakumar
-* Do 16 - 17:30 Uhr, 2.2A020, Ronja Barth
-
-Siehe auch hier: [https://ogy.de/mvl-wise2526-tutorien](https://ogy.de/mvl-wise2526-tutorien)
-
-InnovationSpace-Kurs: [https://innovationspace.ph-karlsruhe.de/course/view.php?id=637](https://innovationspace.ph-karlsruhe.de/course/view.php?id=637)
 
 ## Literatur
 <style>
