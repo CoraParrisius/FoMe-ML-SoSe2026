@@ -641,7 +641,25 @@ ACHTUNG: Die Allermeisten werden zutreffende Beispiele bringen (2,4,6,10,16) abe
 * Confirmation Bias [@nickerson1998]
 * Anchorbias [@lieder2018]
 
+::: notes
 
+Positive Testing (Klayman & Ha, 1987)
+Tendenz, Hypothesen bevorzugt durch Fälle zu testen, die die Hypothese bestätigen könnten, statt durch besonders informative, potenziell widersprechende Fälle. Dadurch wird oft weniger effektiv geprüft als möglich.
+
+Regression zur Mitte (Barnett, van der Pols & Dobson, 2005)
+Statistisches Phänomen, bei dem extreme Messwerte bei einer erneuten Messung tendenziell näher am Durchschnitt liegen – unabhängig von echten Veränderungen. Wird häufig fälschlich als kausaler Effekt interpretiert.
+
+Erwartungseffekte (Rosenthal & Fode, 1963)
+Veränderungen im Verhalten oder in Ergebnissen, die dadurch entstehen, dass Erwartungen von Forschenden oder Lehrenden (bewusst oder unbewusst) das Verhalten von Versuchspersonen oder Schülern beeinflussen (auch „Experimenter Bias“ / „Pygmalion-Effekt“ im weiteren Sinne).
+
+Confirmation Bias (Nickerson, 1998)
+Systematische Neigung, Informationen so zu suchen, zu interpretieren und zu erinnern, dass sie bestehende Überzeugungen bestätigen, während widersprüchliche Informationen ignoriert oder abgewertet werden.
+
+Anchor Bias (Lieder, Griffiths, Huys & Goodman, 2018)
+Urteilsverzerrung, bei der eine anfängliche Zahl oder Information („Anker“) die nachfolgenden Schätzungen oder Entscheidungen unverhältnismäßig stark beeinflusst, selbst wenn der Anker irrelevant oder zufällig ist.
+
+
+:::
 
 ## Literatur
 <style>
