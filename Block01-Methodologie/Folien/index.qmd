@@ -579,6 +579,67 @@ Insektenmonitoring Deutschland
 :::
 
 
+## <!--Exkurs: Präregistrierung--> {.center}
+![](img/preregistered_large_color.png){style="display:block; margin:auto;" width="15%"}
+[Exkurs: Präregistrierung]{.imp style="font-size:1.8em"}
+
+## Exkurs: Präregistrierung {.smaller}
+
+**Ausgangspunkt**
+
+* Replikationskrise (insb. psychologische Forschung)
+* Kritik: 
+    * p-Hacking
+    * HARKing
+    * Researcher Degrees of Freedom
+    * Publication Bias
+
+## Zwölf p-Hacking Strategien... {.smaller}
+
+... die es zu verhindern gilt [@stefan2023]:
+
+
+::: {.incremental}
+(@) Selective reporting of dependent variable
+(@) Selective reporting of independent variable
+(@) Optional stopping
+(@) Outlier exclusion
+(@) Controlling for covariates
+(@) Scale redefinition
+(@) Variable transformation
+(@) Discretizing variables
+(@) Exploiting alternative hypothesis tests
+(@) Favourable imputation
+(@) Subgroup analyses
+(@) Incorrect rounding
+:::
+
+## Zwölf p-Hacking Strategien...  {.smaller .scrollable}
+
+... und deren Folgen [nach @stefan2023]:
+
+![](img/stefanschoenbrodt2023figure13.png){width="50%" style="display:block; margin:auto;"}
+
+Two scenarios for p-hacking ‘workflows’ and their effect on false-positive rates. (a) p-hacking workflow in a t-test. (b) p-hacking workflow in a regression analysis. p-hacking strategies are applied sequentially; at each stage, incorrect rounding with a rounding level of p < 0.051 is applied in addition. The solid grey line shows the nominal α-level of 5%.
+    
+
+## p-Hacking Prävention {.smaller}
+
+Eine vorgeschlagene Lösung: **Präregistrierung**
+
+> Die Präregistrierung (»preregistration«) einer Studie meint eine öffentliche Beschreibung eines Studienvorhabens _vor_ seiner Durchführung. Dies umfasst bei konfirmatorischen Studien die Beschreibung von Hypothesen bis hin zu Erhebungs- und Analyseplänen. Es existieren unterschiedliche Präregistrierungsformulare, die je nach Studientyp verschiedene Detailangaben verlangen. Präregistrierungen werden mit Präregistrierungsdatum (Zeitstempel) veröffentlicht und können im Nachhinein nicht mehr verändert werden. Weicht die spätere Datenanalyse vom präregistrierten Analyseplan ab, so ist dies begründungspflichtig. Ein führender internationaler und disziplinenübergreifender Präregistrierungsserver ist der Server der [Open-Science-Foundation OSF](osf.io). [vgl. @doering2023]
+
+. . .
+
+::: {.callout-tip icon=false collapse="false"}
+## {{< fa book-open >}} Weiterführende Literatur
+Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. _Proceedings of the National Academy of Sciences_, _115_(11), 2600–2606. [https://doi.org/10.1073/pnas.1708274114](https://doi.org/10.1073/pnas.1708274114)
+
+Hardwicke, T. E., & Wagenmakers, E.-J. (2023). Reducing bias, increasing transparency and calibrating confidence with preregistration. _Nature Human Behaviour_, _7_(1), 15–26. [https://doi.org/10.1038/s41562-022-01497-2](https://doi.org/10.1038/s41562-022-01497-2)
+:::
+
+
+
 ## Steigerung der externen Validität {.center}
 :::{.incremental}
 * Große, möglichst repräsentative Stichproben
@@ -660,6 +721,8 @@ Urteilsverzerrung, bei der eine anfängliche Zahl oder Information („Anker“)
 
 
 :::
+
+
 
 ## Literatur
 <style>
