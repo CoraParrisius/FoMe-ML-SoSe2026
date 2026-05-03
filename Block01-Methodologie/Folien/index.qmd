@@ -702,7 +702,7 @@ ACHTUNG: Die Allermeisten werden zutreffende Beispiele bringen (2,4,6,10,16) abe
 * Confirmation Bias [@nickerson1998]
 * Anchorbias [@lieder2018]
 
-::: notes
+::: {.notes}
 
 Positive Testing (Klayman & Ha, 1987)
 Tendenz, Hypothesen bevorzugt durch Fälle zu testen, die die Hypothese bestätigen könnten, statt durch besonders informative, potenziell widersprechende Fälle. Dadurch wird oft weniger effektiv geprüft als möglich.
@@ -722,6 +722,32 @@ Urteilsverzerrung, bei der eine anfängliche Zahl oder Information („Anker“)
 
 :::
 
+
+## Übung 3 {.smaller .scrollable}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+![](img/klebletal2023.png){width="100%"}
+:::
+
+::: {.column width='50%'}
+
+Screenen Sie die Studie von Klebel et al. [-@klebel2025].
+
+
+
+Klassifizieren Sie die Studie als...
+
+* A = empirisch / B = theor. / C = meth.
+* A = querschnittlich / B = längsschnittlich
+* A = explanativ / B = explo. / C = deskr.
+* A = exp. / B = quasiexp. / C = nicht-exp.
+
+:::
+
+::::
 
 
 ## Literatur
