@@ -7,7 +7,7 @@ date: today
 date-format: "[Sommersemester] 2026"
 
 logo: img/ph-logo.svg
-footer: https://ogy.de/m5vl-001 
+footer: https://ogy.de/m5vl-001 | Folien teilweise adaptiert von Samuel Merk
 
 
 format: 
@@ -49,15 +49,15 @@ set.seed(848265)
 
 . . .  
 
-[{{< fa ruler >}}]{.imp} Was ist eine Messung 
+[{{< iconify fa6-solid:scale-unbalanced >}}]{.imp} Was ist eine Messung?
 
 . . .
 
-[{{< fa map >}}]{.imp} Gütekriterien einer Messung
+[{{< iconify fa6-solid:medal >}}]{.imp} Gütekriterien einer Messung
 
 . . .
 
-[{{< fa arrow-trend-up >}}]{.imp } Erhebungsverfahren
+[{{< iconify fa6-solid:route >}}]{.imp } Erhebungsverfahren
 
 
 
