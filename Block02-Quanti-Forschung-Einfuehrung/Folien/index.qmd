@@ -327,8 +327,8 @@ Das Ausmaß der theoretischen und empirischen Belege für die Angemessenheit der
 </center>
 
 
-## <!--(Einige) Erhebungsverfahren--> {.center}
-[{{< iconify fa6-solid:route >}} Erhebungsverfahren]{style="font-size: 1.5em;"}
+## <!--(Einige) Erhebungsverfahren der Sozialwissenschaften--> {.center}
+[{{< iconify fa6-solid:route >}} (Einige) Erhebungsverfahren der Sozialwissenschaften]{style="font-size: 1.5em;"}
 
 ## (Externe) Beobachtung {.smaller .center}
 Wissenschaftliche Beobachtung ist die systematische und [regelgeleitete Registrierung des Auftretens]{.imp} und der Ausprägung von ausgewählten, psychologisch relevanten Merkmalen oder Ereignissen. Sie folgt einem zuvor festgelegten Beobachtungsplan, der festlegt, [1)]{.imp} was beobachtet werden soll, [2)]{.imp} welche Aspekte weniger oder nicht relevant sind, [3)]{.imp} welchen Interpretationsspielraum der Beobachtende bei der Beobachtung hat , [4)]{.imp} wann, wie lange und wo die Beobachtung erfolgt und [5)]{.imp} auf welche Weise das Beobachtete registriert und protokolliert wird [@hussy2013]. 
