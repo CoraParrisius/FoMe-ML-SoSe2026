@@ -319,7 +319,7 @@ Das Ausmaß der theoretischen und empirischen Belege für die Angemessenheit der
 <br>  
 
 
-![](img/Konstruktvalidität.png)
+![](img/Konstruktvaliditaet.png)
 
 ## Aufgabe
 <center>
