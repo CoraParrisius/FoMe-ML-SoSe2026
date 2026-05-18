@@ -114,7 +114,7 @@ der Erfahrungswirklichkeit müssen präzise **definiert** und in ihren wichtigen
 
 > Zunächst ist zu entscheiden, ob die gesamte Population (**Vollerhebung**) oder nur ein Ausschnitt (**Stichprobenerhebung**) untersucht werden soll. Bei der Stichprobenziehung sind (1) die **Stichprobenart** (zufällige oder nicht-zufällige Auswahl) sowie (2) der **Stichprobenumfang** entscheidend für die Aussagekraft der Studie.
 Der Stichprobenplan muss durch eine geeignete Sammlung von Untersuchungseinheiten bzw. **Rekrutierung** von
-Untersuchungspersonen umgesetzt werden. [doering2023]
+Untersuchungspersonen umgesetzt werden. [@doering2023]
 
 ## 6. Datenerhebung {.smaller}
 
