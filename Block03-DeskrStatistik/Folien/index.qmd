@@ -335,7 +335,7 @@ Zum Informationsgehalt von Mittelwertsdifferenzen
 
 ## Cohen's U₁ (% of Non-Overlap){.center .smaller}
 
-```{r}
+```{r plot-cohens-u1}
 #| fig-width: 13
 #| fig-height: 3.5
 #| fig-format: png
