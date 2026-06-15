@@ -892,6 +892,155 @@ tibble(Placebo = c(1, 2, 2, 3) + 1,
 
 ## Benchmarks Cliff's d {.smaller}
 
+```{r cliffsdbenchmarks}
+#| label: vis_cliff_function
+#| fig-width: 13
+#| fig-height: 4.5
+#| fig-format: png
+
+library(bayestestR)
+library(patchwork)
+library(tidyr)
+library(hrbrthemes)
+vis_cliff <- function(plot_raw, rnd, alpha, color) {
+data_rawplot <- 
+  layer_data(plot_raw)
+
+data_expanded <- 
+  expand_grid(ylinks = data_rawplot |> filter(round(x, 0) == 1) |> pull(y),
+              yrechts = data_rawplot |> filter(round(x, 0) == 2) |> pull(y)) |> 
+  gather(ort_y, y) |> 
+  left_join(data_rawplot |> dplyr::select(y, x))
+
+data_to_add <- 
+  tibble(ylinks = data_expanded |> filter(ort_y == "ylinks") |> pull(y),
+         xlinks = data_expanded |> filter(ort_y == "ylinks") |> pull(x),
+         yrechts = data_expanded |> filter(ort_y == "yrechts") |> pull(y),
+         xrechts = data_expanded |> filter(ort_y == "yrechts") |> pull(x)) |> 
+  mutate(Vergleich = ifelse(round(ylinks, rnd) < round(yrechts, rnd), "aufwärts", 
+                            ifelse(round(ylinks, rnd) > round(yrechts, rnd), "abwärts", "gleich"))) |> 
+  # order rows randomly
+  sample_frac(1)
+ggplot() +
+  geom_segment(
+    data = data_to_add,
+    aes(
+      x = xlinks,
+      y = ylinks,
+      xend = xrechts,
+      yend = yrechts,
+      color = Vergleich
+    ),
+    alpha = alpha
+  ) +
+  geom_point(data = data_rawplot, aes(x,y),
+             color = color) +
+  theme_modern_rc() +
+  scale_color_manual(values = c("#8cd000", "#d77d00", "#ffffff"),
+                     guide = guide_legend(override.aes = list(size = 3,
+                                                                    alpha = 1))
+                     )
+
+}
+
+
+set.seed(2505)
+data1 <- 
+  tibble(Control = c(1:5, 
+                     round(distribution_beta(22, 3.21, 2)/2, digits = 1)*10),
+         Placebo = c(1:5, 
+                     round(distribution_beta(22, 2, 3.21)/2, digits = 1)*10)) |> 
+           gather(Bedingung, Nervosität)
+
+plot1 <- 
+  ggplot(data1,
+         aes(Bedingung, Nervosität)) +
+  geom_jitter(color = "#8cd000",
+              width = .08,
+              height = .2)
+plot1 <- 
+  vis_cliff(plot1, 0, .1, "#ffffff")   +
+  ggtitle("Großer Effekt", 
+          "Cliff's d = Rangbiseriale Korrelation = .43") +
+    ylab("Nervosität") +
+    xlab("Bedingung") +
+    scale_x_continuous(breaks = c(1,2),
+                       label = c("Control","Placebo"),
+                       limits = c(.75, 2.25)) +
+    ylim(c(.5,5.5)) +
+    theme(panel.grid.minor = element_blank(),
+          plot.margin = margin(.2, .2, .2, .2, "cm"))
+  
+
+
+data2 <- 
+  tibble(Control = c(1:5, 
+                     round(distribution_beta(22, 2.6, 2)/2, digits = 1)*10),
+         Placebo = c(1:5, 
+                     round(distribution_beta(22, 2, 2.6)/2, digits = 1)*10)) |> 
+           gather(Bedingung, Nervosität)
+
+plot2 <- 
+  ggplot(data2,
+         aes(Bedingung, Nervosität)) +
+  geom_jitter(color = "#8cd000",
+              width = .08,
+              height = .2)
+plot2 <- 
+  vis_cliff(plot2, 0, .1, "#ffffff")   +
+  ggtitle("Moderater Effekt", 
+          "Cliff's d = Rangbiseriale Korrelation = .28") +
+    ylab("Nervosität") +
+    xlab("Bedingung") +
+    scale_x_continuous(breaks = c(1,2),
+                       label = c("Control","Placebo"),
+                       limits = c(.75, 2.25)) +
+    ylim(c(.5,5.5)) +
+    theme(panel.grid.minor = element_blank(),
+          plot.margin = margin(.2, .2, .2, .2, "cm"))
+
+
+data3 <- 
+  tibble(Control = c(1:5, 
+                     round(distribution_beta(22, 2.3, 2)/2, digits = 1)*10),
+         Placebo = c(1:5, 
+                     round(distribution_beta(22, 2, 2.3)/2, digits = 1)*10)) |> 
+           gather(Bedingung, Nervosität)
+
+plot3 <- 
+  ggplot(data3,
+         aes(Bedingung, Nervosität)) +
+  geom_jitter(color = "#8cd000",
+              width = .08,
+              height = .2)
+plot3 <- 
+  vis_cliff(plot3, 0, .1, "#ffffff")   +
+  ggtitle("Kleiner Effekt", 
+          "Cliff's d = Rangbiseriale Korrelation = .11") +
+    ylab("Nervosität") +
+    xlab("Bedingung") +
+    scale_x_continuous(breaks = c(1,2),
+                       label = c("Control","Placebo"),
+                       limits = c(.75, 2.25)) +
+    ylim(c(.5,5.5)) +
+    theme(panel.grid.minor = element_blank(),
+          plot.margin = margin(.2, .2, .2, .2, "cm"))
+
+
+plot1 + plot2 + plot3 +
+  plot_layout() &
+  theme(plot.background =
+          element_rect(fill = "#1e1e1e",
+                       color = "#1e1e1e")) # 1e1e1e from hrbr
+  
+```
+
+::: {.incremental}
+* Voraussetzung: Zwei mindestens ordinalverteile Variablen
+* Cliff's $d(X, Y)$ nimmt Werte zwischen -1 (maximale Unterlegenheit von X) und 1 (maximale Überlegenheit von X) an; ein Nulleffekt liegt bei $d = 0$ vor
+* Cohen's Benchmarks für kleine, mittlere und große Effekte liegen bei $d=.11$, $d=.28$ und $d=.43$
+:::
+
 
 ## Aufgabe
 <center>
@@ -1315,7 +1464,7 @@ ggplot(
 ```
 
 ## Förderungsumfang & -erfolg {auto-animate="true"}
-```{r}
+```{r fig3}
 #| fig-width: 4.5
 #| fig-height: 4.5
 #| out-width: 50%
@@ -1403,7 +1552,7 @@ plot
 :::: {.columns}
 
 ::: {.column width='50%'}
-```{r}
+```{r ausgleichsgerade1}
 #| fig-width: 6.5
 #| fig-height: 4.5
 #| out-width: 100%
@@ -1451,7 +1600,7 @@ plot +
 :::
 
 ::: {.column width='50%'}
-```{r}
+```{r ausgleichsgerade2}
 #| fig-width: 3.5
 #| fig-height: 4.5
 #| out-width: 52%
@@ -1501,7 +1650,7 @@ plot +
 :::: {.columns}
 
 ::: {.column width='50%'}
-```{r}
+```{r ausgleichsgerade3}
 #| fig-width: 6.5
 #| fig-height: 4.5
 #| out-width: 100%
