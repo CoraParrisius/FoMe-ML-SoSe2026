@@ -1,13 +1,13 @@
 ---
-title: "VL Forschungsmethoden" 
-subtitle: "Inferenzstatistik"
+title: "VL Empirische Forschungsmethoden"
+subtitle: "für MiBiD und BioBil"
 author: "Cora Parrisius"
 
 date: today
-date-format: "[Wintersemester] 2025/26"
+date-format: "[Sommersemester] 2026"
 
 logo: img/PHlogo.svg
-footer: Folien adaptiert von Samuel Merk | ogy.de/mvl-wise-2526
+footer: https://ogy.de/m5vl-001 | Folien adaptiert von Samuel Merk
 
 format: 
   revealjs:

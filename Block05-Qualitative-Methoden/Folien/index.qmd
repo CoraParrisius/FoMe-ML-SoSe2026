@@ -112,7 +112,7 @@ close(fileConn)
 | objektive Messung,            | Verstehen von Bedeutungen,     |
 | Beobachtung und               | Erfahrungen und sozialen       |
 | Hypothesenprüfung.            | Zusammenhängen. Forschende     |
-| Forschende sollen möglichst   | sind Teil des                 |
+| Forschende sollen möglichst   | sind Teil des                  |
 | unabhängig vom                | Erkenntnisprozesses.           |
 | Untersuchungsgegenstand sein. |                                |
 +-------------------------------+--------------------------------+
@@ -161,7 +161,7 @@ close(fileConn)
 
 * beide Paradigmen arbeiten mit unterschiedlichen Untersuchungsdesigns, Stichprobentypen, Datenerhebungs- und Datenauswertungsverfahren
 * Qualitatives Paradigma ist als **Sammelbegriff** zu verstehen, der heterogene Menge unterschiedlicher expliziter und impliziter Wissenschaftstheorien, Forschungsstrategien und Denkstile umfasst (z.B. Hermeneutik, Dialektik, Phänomenologie, Praxeologie, Poststrukturalismus, Postmodernismus, Grounded-Theory-Methodologie)
-* Daher werden üblicherweise abstrahierte Grundannahmen und Grundprinzipien, die weitgehend getielt werden, dargestellt
+* Daher werden üblicherweise abstrahierte Grundannahmen und Grundprinzipien, die weitgehend geteilt werden, dargestellt
 
 ## Zitate {.smaller}
 
