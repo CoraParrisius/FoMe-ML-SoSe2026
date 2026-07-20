@@ -509,7 +509,7 @@ Landmann, J. [-@landmann2025]. „Wir sind doch alle Menschen!“: Sprachliche M
 
 . . . 
 
-(1) Intesubjektive Nachvollziehbarkeit
+(1) Intersubjektive Nachvollziehbarkeit
 (2) Indikation
 (3) Empirische Verankerung
 (4) Limitation
@@ -593,7 +593,7 @@ Landmann, J. [-@landmann2025]. „Wir sind doch alle Menschen!“: Sprachliche M
 
 ## Qualitatives Interview {.smaller}
 
-> »Unter einer wissenschaftlichen mündlichen Befragung bzw. einem wissenschaftlichen Interview („research interview“/„scientific interview“) verstehen wir die zielgerichtete, systematische und regelgeleitete Generierung und Er-assung von verbalen Äußerungen einer Befragungsperson (Einzelbefragung) oder mehrerer Befragungspersonen (Paar-, Gruppenbefragung) zu ausgewählten Aspekten ihres Wissens, Erlebens und Verhaltens in mündlicher Form. Interviews können im persönlichen Face-to-Face-Kontakt sowie telefonisch (fernmündlich), per Videokonferenz oder Online-Chat oder online (schriftliche Mündlichkeit) durchgeführt werden. Die dem Interview zugrunde liegenden verbalen Fragen werden den Befragungspersonen („interviewees“, „respondents“) in einer Interaktion jeweils von einer Interviewerin oder einem Interviewer („interviewer“) gestellt. Die Antworten werden dokumentiert und systematisch analysiert. Die vier zentralen Elemente der mündlichen Befragung sind a) die Befragungspersonen, b) die Interviewerin bzw. der Interviewer, c) die Interviewsituation und d) die Interviewfragen.« [@doering2023]
+> »Unter einer wissenschaftlichen mündlichen Befragung bzw. einem wissenschaftlichen Interview („research interview“/„scientific interview“) verstehen wir die zielgerichtete, systematische und regelgeleitete Generierung und Erfassung von verbalen Äußerungen einer Befragungsperson (Einzelbefragung) oder mehrerer Befragungspersonen (Paar-, Gruppenbefragung) zu ausgewählten Aspekten ihres Wissens, Erlebens und Verhaltens in mündlicher Form. Interviews können im persönlichen Face-to-Face-Kontakt sowie telefonisch (fernmündlich), per Videokonferenz oder Online-Chat oder online (schriftliche Mündlichkeit) durchgeführt werden. Die dem Interview zugrunde liegenden verbalen Fragen werden den Befragungspersonen („interviewees“, „respondents“) in einer Interaktion jeweils von einer Interviewerin oder einem Interviewer („interviewer“) gestellt. Die Antworten werden dokumentiert und systematisch analysiert. Die vier zentralen Elemente der mündlichen Befragung sind a) die Befragungspersonen, b) die Interviewerin bzw. der Interviewer, c) die Interviewsituation und d) die Interviewfragen.« [@doering2023]
 
 ## <!--Vorteile des Interviews--> {.smaller}
 
@@ -650,7 +650,7 @@ Landmann, J. [-@landmann2025]. „Wir sind doch alle Menschen!“: Sprachliche M
 (9)	Analyse der Transkripte
 (10)	Archivierung des Materials
 
-## <!--Arten von qualitativen Interviews--> {.smaller}
+## <!--Arten von qualitativen Interviews--> {.smaller .scrollable}
 
 ### Arten von qualitativen Interviews
 
@@ -673,15 +673,27 @@ Landmann, J. [-@landmann2025]. „Wir sind doch alle Menschen!“: Sprachliche M
     *	Fokussiertes Interview
 :::
 
-:::
-
-::: {.column width='50%'}
-
 ::: {.fragment}
 *	Qualitatives Gruppeninterview
     *	Unstrukturiertes bzw. halbstrukturiertes Paar- oder Gruppeninterview
     *	Fokusgruppen-Diskussion
 :::
+
+:::
+
+::: {.column width='50%'}
+
+::: {.fragment}
+
+Beispiele
+
+* **Leitfadeninterview:** Mitarbeitende werden anhand eines Leitfadens zu ihren Erfahrungen mit KI befragt.
+* **Experteninterview:** IT-Leitung oder Digitalisierungsbeauftragte werden zu Einführung, Strategie und Umsetzung der KI befragt.
+* **Problemzentriertes Interview:** Mitarbeitende berichten ausführlich über Herausforderungen und Belastungen durch die KI-Einführung.
+* **Fokussiertes Interview:** Mitarbeitende werden direkt nach einer KI-Schulung oder nach dem Test einer neuen KI-Anwendung zu ihren Eindrücken befragt.
+
+:::
+
 
 :::
 ::::
