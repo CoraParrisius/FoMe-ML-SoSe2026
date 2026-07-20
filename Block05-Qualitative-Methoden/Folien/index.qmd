@@ -72,6 +72,24 @@ close(fileConn)
 
 [{{< fa puzzle-piece >}}]{.imp} Bsp. qualitativer Forschung 
 
+. . . 
+
+[{{< fa check-double >}}]{.imp} Gütekriterien für qualitative Forschung
+
+. . . 
+
+[{{< fa person-circle-check >}}]{.imp} Stichproben für qualitative Studien
+
+. . . 
+
+[{{< fa comments >}}]{.imp} Erhebungsmethoden
+
+. . . 
+
+[{{< fa diagram-successor >}}]{.imp} Analysemethoden
+
+
+
 
 # [{{< fa microscope >}}]{.imp} Der Qualitative Forschungsansatz 
 
@@ -282,7 +300,7 @@ Meist erfolgen Mixed Methods Studien entweder im sogenannten Vorstudien- oder im
 
 
 
-# Charakteristika Qualitativer Forschung
+# {{< fa layer-group >}} Charakteristika Qualitativer Forschung
 
 ## Ganzheitlichkeit und Rekonstruktion {.smaller}
 
@@ -306,7 +324,7 @@ Meist erfolgen Mixed Methods Studien entweder im sogenannten Vorstudien- oder im
 
 
 
-# Sinnebenen Qualitativer Forschung
+# {{< fa layer-group >}} Sinnebenen Qualitativer Forschung
 
 ## Sinnebenen nach Lamnek [-@lamnek2010] {.scrollable}
 
@@ -340,7 +358,7 @@ Meist erfolgen Mixed Methods Studien entweder im sogenannten Vorstudien- oder im
 +-------------------------+------------------------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------+
 :::
 
-# Beispiele qualitativer Sozialforschung
+# {{< fa puzzle-piece >}} Beispiele qualitativer Sozialforschung
 
 
 ## Studie 1: Die Arbeitslosen von Marienthal {.smaller}
@@ -433,6 +451,270 @@ Landmann, J. [-@landmann2025]. „Wir sind doch alle Menschen!“: Sprachliche M
 <iframe width="1280" height="500" src="Integrierte Aufgaben/FF_vs_Datenerhebung.html" title="Aufgabe"></iframe>
 </center>
 
+# {{< fa check-double >}} Gütekriterien für qualitative Forschung
+
+## Gütekriterien für qualitative Forschung {.smaller}
+
+::: {.incremental}
+
+*	Debatte um geeignete Qualitätskriterien im Bereich qualitativer Forschung wird kontrovers geführt
+*	Relativer Konsens dahingehend, dass es intersubjektiv nachvollziehbar sein sollte, wie Forschungsprozess und Forschungsergebnisse abliefen und sich ergaben
+*	Eine Möglichkeit: sich an Gütekriterien quantitativer Forschung zu orientieren bzw. auf qualitativen Ansatz zu übertragen
+*	Mehr Akzeptanz findet Ansatz, aus Logik der qualitativen Forschung heraus eigene Gütekriterien zu entwickeln
+*	Führte zu einem Boom an qualitativen Kriterienkatalogen
+*	Konsensfähiger einheitlicher Kanon von Kernkriterien ist bislang nicht entstanden
+
+:::
+
+## Vier Kriterien der Glaubwürdigkeit von Lincoln und Guba (1985) {.smaller}
+
+> Qualitative Forschung muss das Ober-Kriterium der Glaubwürdigkeit (»trustworthiness«) erfüllen (es soll das Publikum überzeugen, dass Ergebnisse wirklich aussagekräftig sind).
+
+. . . 
+
+4 Kriterien der Glaubwürdigkeit:
+
+(@) Vertrauenswürdigkeit
+(@)	Übertragbarkeit
+(@)	Zuverlässigkeit
+(@)	Bestätigbarkeit
+
+## <!--Vertrauenswürdigkeit & Übertragbarkeit--> {.scrollable}
+
+### Vertrauenswürdigkeit & Übertragbarkeit
+
+![](img/krit-glaubwuerdigkeit-1.png){width="100%"}
+
+## <!-- Zuverlässigkeit -->
+
+### Zuverlässigkeit {.scrollable}
+
+![](img/krit-glaubwuerdigkeit-2.png){width="100%"}
+
+## <!--Bestätigbarkeit--> {.scrollable}
+
+### Bestätigbarkeit
+
+![](img/krit-glaubwuerdigkeit-3.png){width="100%"}
+
+## <!--Zusätzliche Formale Anforderungen--> {.scrollable}
+
+### Zusätzliche Formale Anforderungen
+
+![](img/krit-glaubwuerdigkeit-5.png){width="100%"}
+
+## Sieben Kriterien nach Steinke (1999) {.smaller}
+
+> Neben der methodischen Strenge (Fokus der Kernkriterien nach Lincoln und Guba) wird auch Frage der Relevanz sowie der Repräsentationsqualität angesprochen
+
+. . . 
+
+(1) Intesubjektive Nachvollziehbarkeit
+(2) Indikation
+(3) Empirische Verankerung
+(4) Limitation
+(5) Reflektierte Subjektivität
+(6) Kohärenz
+(7) Relevanz
+
+
+# {{< fa person-circle-check >}} Stichproben für qualitative Studien
+
+## Stichproben für qualitative Studien {.smaller}
+
+::: {.incremental}
+
+*	Blinde Zufallsauswahl an Proband:innen würde sehr wahrscheinlich zu verzerrten und wenig aussagekräftigen Stichproben führen (da diese sehr klein sind)
+*	Daher bewusste bzw. absichtsvolle Auswahl von Fällen gängiges Stichprobenverfahren
+*	D.h. basierend auf theoretischen und empirischen Vorkenntnissen werden gezielt solche Fälle ins Sample aufgenommen, die besonders aussagekräftig für die Fragestellung sind
+*	Es werden drei absichtsvolle Sampling-Strategien unterschieden
+    * Theoretische Stichprobe
+    * Fallauswahl gemäß einem qualitativen Stichprobenplan
+    * Gezielte Auswahl bestimmter Art von Fällen
+
+:::
+
+## Theoretische Stichprobe {.smaller .scrollable}
+
+*	Fallauswahl wird ganz bewusst so gesteuert, dass ein maximaler theoretischer Erkenntniswert resultiert
+*	Fallauswahl erfolgt schrittweise (wird ergebnisoffen erst nach und nach auf Basis theoretischer Überlegungen vervollständigt)
+*	D.h. anhand bisherigen Ergebnisse der Studie wird jeweils entschieden, welche weiteren Fälle als nächstes in das Sample aufzunehmen sind
+*	Verschiedene und wechselnde Kriterien zur bewussten Auswahl von Fällen
+*	Stichprobenziehung wird abgeschlossen, wenn auf Basis der bereits erarbeiteten Zwischenergebnisse der Eindruck entsteht, dass weitere Fälle keinen neuen Informationsgehalt für die Theoriebildung versprechen (**theoretische Sättigung**)
+
+. . . 
+
+> Auswahlstrategien: 
+»Auswahlstrategien beschreiben Wege, um ein Feld zu erschließen. Dies kann – ausgehend von **Extremfällen, negativen, kritischen oder abweichenden Fällen** – von seinen Rändern aus geschehen. Ein Feld kann auch von innen heraus erschlossen werden – ausgehend von **besonders typischen oder besonders entwickelten Fällen**. Es lässt sich von seiner vermuteten Struktur ausgehend erschließen – indem etwa möglichst unterschiedliche Fälle in ihrer Variationsbreite einbezogen werden.« (Flick, 2010, S. 169f.)
+
+## Stichprobenplan {.smaller .scrollable}
+
+*	Entgegen theoretischer Stichprobenbildung existiert vorab festgelegter qualitativer Stichprobenplan
+*	Ähnelt Quotenstichprobe im quantitativen Forschungsansatz 
+*	Fallauswahl soll am Informationsgehalt der Fälle ausgerichtet sein
+*	Möglichst alle für den untersuchten Sachverhalt besonders wichtigen Merkmale und Merkmalskombinationen sollen im Sample vorkommen (z.B. hinsichtlich soziodemografischer Kriterien wie Alter, Beruf, Nationalität)
+*	Üblicherweise werden Kombination von ca. 3 Merkmalen berücksichtigt
+*	Daraus ergibt sich Kreuztabelle aus Merkmalen
+*	Pro Zelle werden meist 1-3 Fälle untersucht
+*	Besonders herausfordernd ist hier die Rekrutierung entsprechender Personen
+*	Nachteil: es werden lediglich Unterschiede oder Gemeinsamkeiten zwischen den vorausgewählten Gruppen sichtbar; ggf. wichtige Merkmalskombinationen, die in der Population existieren, können übersehen werden
+
+## Gezielte Auswahl bestimmter Arten von Fällen {.smaller}
+
+*	Manche Fragestellungen beziehen sich auf ganz spezielle Zielgruppe
+*	Hier bietet sich gezielte Auswahl bestimmter Arten von Fällen an
+*	Dabei zu unterscheiden:
+    *	Homogene gezielte Stichproben: ein einziger oder wenige Rekrutierungswege zum Erreichen eines relativ kleinen Samples
+    *	Heterogene gezielte Stichprobe: breit gestreut über unterschiedliche Rekrutierungswege mit Ziel eines relativ großen Samples, das sich hinsichtlich eines Zielmerkmals ähnelt
+
+# {{< fa comments >}} Erhebungsmethoden
+
+## Erhebungsmethoden
+
+![](img/erhebungsmethoden.png){hight="100%"}
+
+## Qualitative Beobachtung {.smaller .scrollable}
+
+> »Bei der qualitativen Beobachtung („qualitative observation“) werden verbale, visuelle bzw. audiovisuelle Daten erhoben, die den jeweiligen Gegenstand der Beobachtung sehr detailreich repräsentieren. Besonders einschlägig sind verbale Daten in Form von Beobachtungsprotokollen. Qualitative Beobachtung erfolgt häufig als (aktiv oder passiv) teilnehmende Beobachtung („participant observation“) im Feld.« [@doering2023]
+
+. . . 
+
+*	Augenmerk liegt auf sozialen Interaktionen zwischen Handelnden in ihrer jeweiligen Lebenswelt
+*	Diese sollen hinsichtlich ihrer Muster und Bedeutungen rekonstruiert werden
+*	Daher typischerweise Feldbeobachtungen
+*	Spätestens im Verlauf einer längeren Feldbeobachtungsstudie werden geeignete theoretische Konzepte erarbeitet, um die Kontruiertheit des Beobachtungsprozesses zu reflektieren und diskutieren zu können und nicht den impliziten Theorien und Vorannahmen der Forschenden zu überlassen
+*	In der Praxis i.d.R. fließender Übergang zwischen nicht-strukturierter und teilstrukturierter qualitativer Beobachtung
+
+## Häufig umgesetzte Varianten der Beobachtung {.smaller}
+
+*	Die qualitative Beobachtung mit einem geringen Komplexitätsgrad: konzentriert sich als Fremdbeobachtung auf einzelne Aspekte des sozialen Geschehens
+*	Die ethnografische Feldbeobachtung: verfolgt als Fremdbeobachtung das Ziel, komplexe Interaktionsabläufe und soziale Welten umfassend zu rekonstruieren
+*	Die Autoethnografie: rückt die Selbstbeobachtung der Forschenden in den Mittelpunkt
+
+## Qualitatives Interview {.smaller}
+
+> »Unter einer wissenschaftlichen mündlichen Befragung bzw. einem wissenschaftlichen Interview („research interview“/„scientific interview“) verstehen wir die zielgerichtete, systematische und regelgeleitete Generierung und Er-assung von verbalen Äußerungen einer Befragungsperson (Einzelbefragung) oder mehrerer Befragungspersonen (Paar-, Gruppenbefragung) zu ausgewählten Aspekten ihres Wissens, Erlebens und Verhaltens in mündlicher Form. Interviews können im persönlichen Face-to-Face-Kontakt sowie telefonisch (fernmündlich), per Videokonferenz oder Online-Chat oder online (schriftliche Mündlichkeit) durchgeführt werden. Die dem Interview zugrunde liegenden verbalen Fragen werden den Befragungspersonen („interviewees“, „respondents“) in einer Interaktion jeweils von einer Interviewerin oder einem Interviewer („interviewer“) gestellt. Die Antworten werden dokumentiert und systematisch analysiert. Die vier zentralen Elemente der mündlichen Befragung sind a) die Befragungspersonen, b) die Interviewerin bzw. der Interviewer, c) die Interviewsituation und d) die Interviewfragen.« [@doering2023]
+
+## <!--Vorteile des Interviews--> {.smaller}
+
+### Vor- und Nachteile des Interviews
+
+[**Vorteile gegenüber Fragebogentechnik:**]{.imp}
+
+*	Aspekte des subjektiven Erlebens werden zugänglich (z.B. Gefühle, Meinungen, Überzeugungen, Glaubensinhalte)
+*	Nicht direkt beobachtbare Ereignisse und Verhaltensweisen können erfasst werden 
+*	Niedrigschwellige alltagsnahe Methode: erfordert von Befragten i.d.R. keine entsprechende Sehfähigkeit, Konzentration sowie Lese- und Schreibkompetenzen
+*	Durch Livesituation kann man Hintergrundinformationen über die Befragungsperson und -situation erhalten, mit der Datenqualität besser eingeschätzt werden kann
+*	Livesituation sorgt für persönliche Atmosphäre
+*	Mündliche Äußerungen ermöglichen in kürzerer Zeit viel mehr Informationen
+*	Größere Flexibilität und Adaptivität möglich
+
+## <!--Nachteile des Interviews--> {.smaller}
+
+### Vor- und Nachteile des Interviews
+
+[**Nachteile:**]{.imp}
+
+*	Höherer Zeit- und Kostenaufwand pro Befragungsperson
+*	Interviewende müssen sorgfältig geschult sein
+*	Geringere Anonymität der Livesituation
+*	Reaktivität der Interviewmethode (Befragte wissen, dass sie an einem Interview teilnehmen) birgt Gefahr der Verzerrung 
+
+## <!--Klassifikationskriterien für wissenschaftliche Interviews--> {.smaller}
+
+### Klassifikationskriterien für wissenschaftliche Interviews
+
+::: {.incremental}
+
+(1)	Grad der Strukturierung der Interviewsituation (unstrukturiert/nicht-strukturiert versus halbstrukturiert/teilstrukturiert versus vollstrukturiert)
+(2)	Anzahl der gleichzeitig interviewten Befragungspersonen (Einzelbefragung versus Paar- oder Gruppenbefragung)
+(3)	Art des Interviewkontakts bzw. Interviewmodus (persönlich versus telefonisch versus online)
+(4)	Anzahl der Interviewenden (ein Interviewender versus Tandem-Interview versus Hearing)
+(5)	Art der Befragungspersonen (Experten-Interview versus Laien- bzw. Betroffenen-Interview)
+(6)	Art der Interviewtechnik
+
+:::
+
+## <!--Ablauf eines qualitativen Interviews--> {.smaller}
+
+### Ablauf eines qualitativen Interviews
+
+(1)	Inhaltliche Vorbereitung
+(2)	Organisatorische Vorbereitung
+(3)	Gesprächsbeginn
+(4)	Durchführung und Aufzeichnung des Interviews
+(5)	Gesprächsende
+(6)	Verabschiedung
+(7)	Gesprächsnotizen
+(8)	Transkription
+(9)	Analyse der Transkripte
+(10)	Archivierung des Materials
+
+## <!--Arten von qualitativen Interviews--> {.smaller}
+
+### Arten von qualitativen Interviews
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+::: {.fragment}
+*	Unstrukturiertes Interview
+    *	Narratives Interview
+    *	Methode des lauten Denkens
+    *	Ethnografische Feldinterviews
+:::
+    
+::: {.fragment}    
+*	Halbstrukturiertes Interview
+    *	Leitfaden-Interview
+    *	Experten-Interview
+    *	Problemzentriertes Interview
+    *	Fokussiertes Interview
+:::
+
+:::
+
+::: {.column width='50%'}
+
+::: {.fragment}
+*	Qualitatives Gruppeninterview
+    *	Unstrukturiertes bzw. halbstrukturiertes Paar- oder Gruppeninterview
+    *	Fokusgruppen-Diskussion
+:::
+
+:::
+::::
+
+## Qualitative Dokumentenanalyse {.smaller}
+
+> »Bei einer genuinen Dokumentenanalyse erfolgt die Datenerhebung durch Sammlung vorgefundener (d. h. nicht durch den Forschungsprozess erzeugter) Dokumente, sodass im Unterschied zu forschungsgenerierten Dokumenten Nonreaktivität gegeben ist. Für die anschließende Datenauswertung können qualitative und quantitative Datenanalysemethoden verwendet werden – und zwar prinzipiell dieselben, die auch auf forschungsgenerierte Dokumente (z. B. Beobachtungsprotokolle, Interviewtranskripte) anwendbar sind.« [@doering2023]
+
+. . . 
+
+**Mögliche Dokumentenformen:**
+
+*	Persönliche Dokumente (informelle Kommunikation, z.B. Tagebücher, Einkaufszettel, Briefe, Familienfotos, Kontaktanzeigen etc.)
+*	Offizielle Dokumente (formale Kommunikation, z.B. Dienstvorschriften, Sitzungsprotokolle, Jahresberichte, Gerichtsakten, Gesetzestexte etc.)
+
+# {{< fa diagram-successor >}} Analysmethoden
+
+## Objektive Hermeneutik {.smaller}
+
+> »Die Objektive Hermeneutik („objective hermeneutics“) geht davon aus, dass sich psychische, soziale und kulturelle Erscheinungen (z. B. Gedanken, Gefühle) nur über ihre Ausdrucksgestalten (z. B. Erzählung, Tagebucheintrag, aber auch visuelles Material) untersuchen lassen. Die latenten Sinnstrukturen und objektiven Bedeutungsstrukturen dieser Ausdrucksgestalten sind Gegenstand der Objektiven Hermeneutik. Bei der qualitativen Datenanalyse gemäß Objektiver Hermeneutik geht es ausdrücklich nicht darum, das subjektive Erleben der Textproduzenten verstehend nachzuvollziehen und zu Kategorien zusammenzufassen, sondern die Texte bzw. Protokolle hinsichtlich ihrer algorithmischen Erzeugungsregeln zu analysieren. Dies geschieht nicht kategorienbildend, sondern sequenzanalytisch. Sequenz meint dabei nicht einfach zeitliches Nacheinander, sondern Strukturbildung in dem Sinne, dass jede Einzelhandlung bestimmte Optionen ausschließt und neue Optionen eröffnet. Die wissenschaftstheoretischen Grundlagen sowie das konkrete sequenzanalytische Vorgehen der Objektiven Hermeneutik unterscheiden sich deutlich von den anderen, kategorienbildenden Analyseverfahren.« [@doering2023]
+
+## Qualitative Inhaltsanalyse {.smaller}
+
+> »Die qualitative Inhaltsanalyse („qualitative content analysis“) zielt darauf ab, aus qualitativem Text- oder Bildmaterial systematisch v. a. die manifesten Inhalte durch Kategorienbildung herauszuarbeiten und diese bei Bedarf auch zu quantifizieren.
+Sie nimmt somit zwischen qualitativer und quantitativer Forschung eine Zwischenposition ein und wird in der Forschungspraxis auch oft mit der quantitativen Inhaltsanalyse kombiniert.« [@doering2023]
+
+## Dokumentarische Methode {.smaller}
+
+> »Die Dokumentarische Methode („documentary method“) basiert auf der erkenntnistheoretischen Position der Praxeologie, dergemäß soziale Sachverhalte weder als objektive noch als subjektive Phänomene verstanden werden, sondern als Ergebnisse kollektiver Handlungen und Sinnkonstruktionen. Sie geht ursprünglich auf den Soziologen und Begründer der Ethnomethodologie Harold Garfinkel zurück und wurde im deutschsprachigen Raum vor allem durch den Soziologen Ralf Bohnsack weiterentwickelt – zunächst für die Auswertung von Gruppendiskussionen. Heute wird die Methode breit angewendet, etwa auch für Datenmaterial aus teilnehmenden Beobachtungen, narrativen und Leitfaden-Interviews sowie auf vorgefundene Dokumente einschließlich Fotos und Videos. Die Dokumentarische Methode unterzieht das qualitative Material zunächst einer sog. formulierenden Interpretation, dann einer reflektierenden Interpretation und mündet schließlich in eine fallübergreifende komparative Analyse und Typenbildung. Sie ist in der Soziologie und Erziehungswissenschaft sehr viel etablierter als in der Psychologie und wird auch in der Evaluationsforschung eingesetzt. Eine Verbreitung über den deutschsprachigen Raum hinaus hat erst jüngst begonnen.« [@doering2023]
+
+## Grounded Theory Methodologie {.smaller}
+
+> »Die Grounded-Theory-Methodologie („grounded theory methodology“ GTM) stellt eine eigene Forschungsstrategie dar, die auf die Entwicklung gegenstandsverankerter Theorien hinausläuft und damit einen höheren Anspruch verfolgt als eine reine Beschreibung des Untersuchungsgegenstandes. Die GTM geht über eine qualitative Datenauswertungsmethode hinaus und macht Vorgaben zur Gestaltung des gesamten qualitativen Forschungsprozesses. Der in den 1960er Jahren in der Soziologie entwickelte Grounded-Theory-Ansatz ist im Bereich der qualitativen Datenanalyse mit großem Abstand der populärste und auch in der psychologischen Forschung etabliert. Die zugrunde liegende Kodiermethode ist die Methode des permanenten Vergleichs („constant comparison coding/analysis“) mit den Techniken des offenen Kodierens, des axialen Kodierens (Verknüpfung der Kategorien des offenen Kodierens zu Hauptkategorien) und des selektiven Kodierens (Entwicklung von Kernkategorien aus den Hauptkategorien des axialen Kodierens), jeweils begleitet durch umfangreiches Schreiben von Memos („memoing“, „memowriting“).« [@doering2023]
 
 ## Literatur
 
